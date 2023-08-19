@@ -11,6 +11,6 @@ body{
     margin: 15px 0;
 	 
  }
-.leftSide{
-	align-items: right;
+.author{
+	text-align:right;
 }
